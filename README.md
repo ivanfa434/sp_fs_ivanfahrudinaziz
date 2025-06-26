@@ -1,11 +1,5 @@
 Multi-User Project Management App
 Sellerpintar Fullstack Technical Test Submission
-🚀 Quick Start Guide
-Prerequisites
-
-Node.js (v18+)
-PostgreSQL or SQLite
-Git
 
 1. Clone & Setup
 # Clone repository
